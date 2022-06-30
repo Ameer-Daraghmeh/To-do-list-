@@ -1,5 +1,8 @@
 # To-do-list
-Mini to do list that I made as my first web app project while learning the mern stack<br> 
+Mini to do list that I made as my first web app project while learning the mern stack
+<br> 
+You can add a new list by typing the name in the http request
+<br>
 this project using :
 nodejs, expressjs, mongodb.
 
